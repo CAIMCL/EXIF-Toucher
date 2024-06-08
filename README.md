@@ -18,7 +18,7 @@ EXIF Toucher is a Python script that updates the file timestamps and renames JPE
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/EXIF-Toucher.git
+    git clone https://github.com/CAIMCL/EXIF-Toucher.git
     cd EXIF-Toucher
     ```
 
@@ -33,4 +33,4 @@ EXIF Toucher is a Python script that updates the file timestamps and renames JPE
 Run the script with the JPEG file as an argument:
 
 ```bash
-python update_timestamp.py <photo-file>
+python touchtime.py <photo-file>
